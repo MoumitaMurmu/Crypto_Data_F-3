@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+#container{
+   
+    position: absolute;
+    width: 1000px;
+    height: 100vh;
+    left: 160px;
+    right: 120px;
+    background-color: #1d1c1c;
+    margin-left: 20px;
+      }
+
+   img{
+    width: 25px;
+    position: fixed;
+    }
+   #table{
+    font-size: 15px;
+    width: 900px;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    height: 95vh;
+    padding: 15px;
+    padding-left: 5px;
+    background-color: #1d1c1c;
+    opacity: 0.80;
+    color: white;
+    font-weight: 250;
+     }
+   
+
+
